@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="options">
+        <item>@string/posfeedback</item>
+        <item>@string/negfeedback</item>
+        <item>@string/ideafeedback</item>
+        <item>@string/bugfeedback</item>
+        <item>@string/otherfeedback</item>
+    </string-array>
+</resources>

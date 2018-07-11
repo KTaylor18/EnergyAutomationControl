@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "1084578653713",
+    "firebase_url": "https://energyautomationcontrol.firebaseio.com",
+    "project_id": "energyautomationcontrol",
+    "storage_bucket": "energyautomationcontrol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084578653713:android:bdfaffabee7876dd",
+        "android_client_info": {
+          "package_name": "com.ntu.energyautomationcontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084578653713-tuk05is9rrvbug7e6jjm96emscso4p35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ntu.energyautomationcontrol",
+            "certificate_hash": "04ed682e0c7c3489e9724abef203dacf6d9c3513"
+          }
+        },
+        {
+          "client_id": "1084578653713-3ulmaqkcjqoajdn9lm58srnhoo8d7vkn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ntu.energyautomationcontrol",
+            "certificate_hash": "44d9281747cc279fc849026ab3bae4b0b527680f"
+          }
+        },
+        {
+          "client_id": "1084578653713-7dq4eo6hdm436ghmqlt67ic9qaaj6nkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ntu.energyautomationcontrol",
+            "certificate_hash": "a4f04612cdc5c4275d12e7f429bf7c8876a2dfab"
+          }
+        },
+        {
+          "client_id": "1084578653713-qvtbv2rel81kglnu3fevep1u8jdn9rgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBolmn0ODPBD2JAV2ZZmid-qn0xitb_Wls"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084578653713-qvtbv2rel81kglnu3fevep1u8jdn9rgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
